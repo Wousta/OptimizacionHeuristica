@@ -1,0 +1,15 @@
+README.md
+setup.py
+group25/CrossoverOperator.py
+group25/EA.py
+group25/Genome.py
+group25/MutationOperator.py
+group25/Operator.py
+group25/Population.py
+group25/ReplacementOperator.py
+group25/SelectionOperator.py
+group25/__init__.py
+group25.egg-info/PKG-INFO
+group25.egg-info/SOURCES.txt
+group25.egg-info/dependency_links.txt
+group25.egg-info/top_level.txt
