@@ -1,12 +1,12 @@
 # OptimizacionHeuristica
 Implementation of an evolutionary algorithm
 
-1 Opciones de práctica
+**1 Opciones de práctica**
 Para esta práctica debemos desarrollar un algoritmo de optimización basado en la evolución diferencial.
 Además durante la etapa de mutación usaremos la función current to rand, y durante la etapa de
 recombinación haremos uso del binomial crossover.
 
-2 Estructura del algoritmo
+**2 Estructura del algoritmo**
 Para el desarrollo del algoritmo se han dividido las distintas clases en archivos separados de manera que al
 modificar uno no se vean alterados el resto. En la clase Genome únicamente se ha implementado el
 constructor de la clase, ya que no era necesario nada más para la implementación del resto de elementos. En
